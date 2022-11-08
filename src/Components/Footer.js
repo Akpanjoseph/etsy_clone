@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiOutlineGlobal } from 'react-icons/ai';
+// import { AiOutlineGlobal } from 'react-icons/ai';
 import {GiWorld} from 'react-icons/gi'
 import { BsFacebook, BsInstagram, BsPinterest, BsTwitter, BsYoutube } from 'react-icons/bs';
 
