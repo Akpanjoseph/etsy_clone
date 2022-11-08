@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#searchbar:focus + #signup  {
+    @apply hidden
+    
+} 
+
+/* /* #cart-sect{
+    @apply block
+} */
+
+#signup{
+    @apply block
+}
+
+/* #logo{
+    @apply block
+} */
